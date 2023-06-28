@@ -1,1 +1,1 @@
-# Gimici-Web3miner-gpt.io
+# Gimici-Hashminer-gpt.io
