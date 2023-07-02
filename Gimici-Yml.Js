@@ -18,3 +18,4 @@ uint256 public totalSupply;
   
     event Transfer(address indexed _from, address indexed _to, uint256 _value);
 }
+https://github.com/GIMICI/Gimici-Hashminer-gpt.io.wiki.git
